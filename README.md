@@ -4,7 +4,7 @@ LaTeX Template for Drafting Indian Patent Specifications (i.e., Form-2)
 This distribution provides files for drafting Indian Patent Specifications using LaTeX.
 
 The latest version of this distribution can be found at:
-http://github.com/Nettimi-Satya-Sai-Srinivas
+https://github.com/Nettimi-Satya-Sai-Srinivas/Indian-Patent-Specifications-LaTeX-Template
 
 ***************************************************************************
 
