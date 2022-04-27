@@ -42,7 +42,7 @@ This distribution includes:
 
     README              - This file.
     Form-2.tex          - A bare bones starter file for Form-2.
-    INFO.txt            - An information file that briefly describes the LaTeX packages used in Form-2.tex.
+    INFO.txt            - An information file that briefly describes the LaTeX packages used in Form-2.tex file.
     signature.eps       - An illustration of signature in vector format.
     figure.eps          - An illustration of figure in vector format.
     Form-2.pdf          - The generated PDF document of Form-2.
